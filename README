@@ -1,0 +1,6 @@
+This project was completed using assets and instruction from "JavaScript Side Scroller Game Tutorial" by Franks Laboratory - https://youtu.be/7JtLHJbm0kA?si=I2ruvbTGHN_VT-fi
+
+To run the game, simply open the index.html file in your web browser.
+Use the arrow keys to control the dog. You must avoid the enemies that advance across the screen. Touching an enemy will result in a GAME OVER.
+
+To restart after a GAME OVER, you'll have to refresh your browser.
